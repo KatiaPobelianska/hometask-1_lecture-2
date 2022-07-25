@@ -49,8 +49,8 @@
 // var age = prompt("How old are you?", 21);
 // alert("years: " + age + " done");
 
-var agree = confirm("Are you agree for...?");
-alert(agree);
+// var agree = confirm("Are you agree for...?");
+// alert(agree);
 
 // obj-s
 
